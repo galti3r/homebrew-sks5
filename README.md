@@ -11,7 +11,7 @@ brew install sks5
 
 ## Current version
 
-**0.0.10** — [Release notes](https://github.com/galti3r/sks5/releases/tag/v0.0.10)
+**0.0.12** — [Release notes](https://github.com/galti3r/sks5/releases/tag/v0.0.12)
 
 ## Links
 

@@ -1,8 +1,8 @@
 class Sks5 < Formula
   desc "Lightweight SSH server with SOCKS5 proxy, shell emulation, and ACL"
   homepage "https://github.com/galti3r/sks5"
-  url "https://github.com/galti3r/sks5/archive/refs/tags/v0.0.13.tar.gz"
-  sha256 "d6ad2ae212699605a76509c66a6412d9a1bc25808613f63883e7322ca5f1298e"
+  url "https://github.com/galti3r/sks5/archive/refs/tags/v0.0.14.tar.gz"
+  sha256 "f952e04fed1dbbf20f3f7e89dd7370e32bfbcf284f1fb62104d4f750e885e308"
   license "MIT"
   head "https://github.com/galti3r/sks5.git", branch: "main"
 
